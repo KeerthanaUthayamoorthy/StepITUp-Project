@@ -1,0 +1,14 @@
+c:\users\user\documents\visual studio 2015\Projects\SIU_Project\SIU_Project\bin\Debug\SIU_Project.exe.config
+C:\Users\User\Documents\Visual Studio 2015\Projects\SIU_Project\SIU_Project\bin\Debug\SIU_Project.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\SIU_Project\SIU_Project\bin\Debug\SIU_Project.pdb
+C:\Users\User\Documents\Visual Studio 2015\Projects\SIU_Project\SIU_Project\obj\Debug\SIU_Project.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\SIU_Project\SIU_Project\obj\Debug\SIU_Project.Form1.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\SIU_Project\SIU_Project\obj\Debug\SIU_Project.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\SIU_Project\SIU_Project\obj\Debug\SIU_Project.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2015\Projects\SIU_Project\SIU_Project\obj\Debug\SIU_Project.exe
+C:\Users\User\Documents\Visual Studio 2015\Projects\SIU_Project\SIU_Project\obj\Debug\SIU_Project.pdb
+C:\Users\User\documents\visual studio 2015\Projects\SIU_Project\SIU_Project\obj\Debug\SIU_Project.BatchCreation.resources
+C:\Users\User\documents\visual studio 2015\Projects\SIU_Project\SIU_Project\obj\Debug\SIU_Project.Details.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\SIU_Project\SIU_Project\obj\Debug\SIU_Project.DetailOfAStudent.resources
+C:\Users\User\Documents\Visual Studio 2015\Projects\SIU_Project\SIU_Project\obj\Debug\SIU_Project.StudentDetailCheck.resources
+C:\Users\User\documents\visual studio 2015\Projects\SIU_Project\SIU_Project\obj\Debug\SIU_Project.ConfirmRemovalOfStudent.resources
